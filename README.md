@@ -3,7 +3,6 @@
 <div>
     Hi, I'm Quentin Macq and I'm a Web Developer.<br/><br/>
     Passionate about development for several years now, I code mainly in <b> Symfony </b> and <b> Vue.js </b>, where I maintain projects in teams.<br/>
-    Curious by nature, I do technological watch regularly so as not to miss any important news! 💻
 </div>
 
 <br/>
